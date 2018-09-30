@@ -2,7 +2,7 @@
 
 Created for demonstration a to show some key things and other that I liked. Some of them are:
 < /br>< /br>
-- Stripe integration for payments < /br>
+- Stripe integration for payments </br>
 - Database Seeders to full database with some dummy data. < /br>
 - Session usage for the cart. < /br>
 - Serializing php Objects to save them as text on the database. Unserialize them to retrieve them as objects in PHP code. < /br>
