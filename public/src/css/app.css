@@ -1,0 +1,17 @@
+.thumbnail img {
+	max-height:150px;
+}
+
+.description
+{
+	color:#7f7f7f;
+}
+
+.price{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.emptycart{
+	margin-top:10px;
+}
